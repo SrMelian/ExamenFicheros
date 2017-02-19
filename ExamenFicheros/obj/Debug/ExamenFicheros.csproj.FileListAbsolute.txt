@@ -1,0 +1,9 @@
+E:\Clase\PROGRAMACIÓN\EVAL-2\Windows\ExamenFicheros\ExamenFicheros\bin\Debug\ExamenFicheros.exe.config
+E:\Clase\PROGRAMACIÓN\EVAL-2\Windows\ExamenFicheros\ExamenFicheros\bin\Debug\ExamenFicheros.exe
+E:\Clase\PROGRAMACIÓN\EVAL-2\Windows\ExamenFicheros\ExamenFicheros\bin\Debug\ExamenFicheros.pdb
+E:\Clase\PROGRAMACIÓN\EVAL-2\Windows\ExamenFicheros\ExamenFicheros\obj\Debug\ExamenFicheros.csprojResolveAssemblyReference.cache
+E:\Clase\PROGRAMACIÓN\EVAL-2\Windows\ExamenFicheros\ExamenFicheros\obj\Debug\ExamenFicheros.Form1.resources
+E:\Clase\PROGRAMACIÓN\EVAL-2\Windows\ExamenFicheros\ExamenFicheros\obj\Debug\ExamenFicheros.Properties.Resources.resources
+E:\Clase\PROGRAMACIÓN\EVAL-2\Windows\ExamenFicheros\ExamenFicheros\obj\Debug\ExamenFicheros.csproj.GenerateResource.Cache
+E:\Clase\PROGRAMACIÓN\EVAL-2\Windows\ExamenFicheros\ExamenFicheros\obj\Debug\ExamenFicheros.exe
+E:\Clase\PROGRAMACIÓN\EVAL-2\Windows\ExamenFicheros\ExamenFicheros\obj\Debug\ExamenFicheros.pdb
